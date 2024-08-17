@@ -1,0 +1,10 @@
+.quiz-container {
+    margin-top: 50px;
+}
+.question {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+}
+.options {
+    margin-bottom: 20px;
+}
